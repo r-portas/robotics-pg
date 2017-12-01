@@ -2,15 +2,18 @@
   <footer class="footer">
     <div class="container">
       <div class="content has-text-centered">
-        <strong>Robotics PG</strong> is a startup who is bringing robotics to everyone!
-        <br>
-        Design by <strong>Roy Portas</strong>
+        <p><strong>Robotics PG</strong> is a startup who is bringing robotics to everyone!</p>
+        <p class="mute">Design by Roy Portas</p>
       </div>
     </div>
   </footer>
 </template>
 
 <style scoped>
+.mute {
+  color: gray;
+  font-size: small;
+}
 </style>
 
 <script>
