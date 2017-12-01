@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar is-primary">
     <div class="navbar-brand">
-      <h1 class="navbar-item">Robotics PG</h1>
+      <h1 class="navbar-item">Robotics PG</strong></h1>
 
       <div class="navbar-burger burger" @click="toggleMenu" :class="{ 'is-active': menuActive }">
         <span></span>
