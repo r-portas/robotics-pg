@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 
 import './main.scss'
+import 'spinkit/css/spinkit.css'
 
 Vue.config.productionTip = false
 

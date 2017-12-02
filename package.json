@@ -9,12 +9,12 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
-
     "predeploy": "node build/build.js",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "bulma": "^0.6.1",
+    "spinkit": "^1.2.5",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

@@ -41,6 +41,10 @@ export default {
         {
           url: '/about',
           title: 'About'
+        },
+        {
+          url: '/events',
+          title: 'Events'
         }
       ],
 
