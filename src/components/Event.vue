@@ -2,7 +2,11 @@
   <div class="card">
     <div class="card-content">
       <p class="title">
-        {{title}} - {{start}}
+        {{title}}
+      </p>
+
+      <p class="subtitle">
+        {{parseDate(start)}}
       </p>
 
       <div class="columns">
@@ -29,8 +33,15 @@
 </style>
 
 <script>
+import moment from 'moment'
+
 export default {
   name: 'Event',
-  props: ['title', 'start', 'description', 'url', 'image']
+  props: ['title', 'start', 'description', 'url', 'image'],
+  methods: {
+    parseDate (date) {
+      return moment(date).format('MMMM Do YYYY, h:mm:ss a')
+    }
+  }
 }
 </script>
