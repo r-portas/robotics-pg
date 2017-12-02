@@ -1,12 +1,20 @@
 <template>
   <div class="card">
-    <header class="card-header">
-      <p class="card-header-title">
+    <div class="card-content">
+      <p class="title">
         {{title}} - {{start}}
       </p>
-    </header>
-    <div class="card-content">
-      {{description}}
+
+      <div class="columns">
+        <div v-if="image" class="column is-one-third">
+          <img :src="image">
+        </div>
+
+        <p class="content column">
+          {{description}}
+        </p>
+      </div>
+
     </div>
     <footer class="card-footer">
       <a :href="url" class="card-footer-item">Book</a>
@@ -15,11 +23,14 @@
 </template>
 
 <style scoped>
+.title {
+  font-family: "Dosis", sans-serif;
+}
 </style>
 
 <script>
 export default {
   name: 'Event',
-  props: ['title', 'start', 'description', 'url']
+  props: ['title', 'start', 'description', 'url', 'image']
 }
 </script>

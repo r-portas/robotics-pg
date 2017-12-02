@@ -2,7 +2,10 @@
 $primary: #4682B4;
 $primary-invert: white;
 
+$family-primary: "Source Sans Pro", sans-serif;
+
 // Navbar
+$navbar-height: 64px;
 // $navbar-background-color: $primary;
 // $navbar-dropdown-background-color: $primary;
 // $navbar-item-color: white;
@@ -20,5 +23,6 @@ $primary-invert: white;
 
 // $text: black;
 // $text-strong: black;
+
 
 @import "../node_modules/bulma/bulma.sass"

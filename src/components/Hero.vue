@@ -14,6 +14,12 @@
 </template>
 
 <style scoped>
+.title {
+  font-family: "Dosis", sans-serif;
+  font-weight: 400;
+  font-size: 400%;
+  color: white;
+}
 </style>
 
 <script>

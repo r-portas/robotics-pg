@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar is-primary">
     <div class="navbar-brand">
-      <h1 class="navbar-item">Robotics PG</strong></h1>
+      <router-link to="/" active-class="" class="navbar-item main">Robotics PG</router-link>
 
       <div class="navbar-burger burger" @click="toggleMenu" :class="{ 'is-active': menuActive }">
         <span></span>
@@ -21,6 +21,15 @@
 </template>
 
 <style scoped>
+.main {
+  font-weight: bold;
+  font-family: "Dosis", sans-serif;
+  font-size: 200%;
+}
+
+.navbar-item {
+  font-weight: bold;
+}
 </style>
 
 <script>
