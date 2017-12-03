@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar is-primary">
     <div class="navbar-brand">
-      <router-link to="/" active-class="" class="navbar-item main">Robotics PG</router-link>
+      <router-link to="/" active-class="" class="navbar-item main">Robotics PlayGround</router-link>
 
       <div class="navbar-burger burger" @click="toggleMenu" :class="{ 'is-active': menuActive }">
         <span></span>
