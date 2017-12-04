@@ -14,7 +14,7 @@
         At the same time providing the opportunity for industry professionals and educators in the field of robotics to host workshops in an equipped space and share their knowledge to the next generation. 
       </p>
       <p>
-        DIVERSITY - FUN - EDUCATIONAL - ROBOTICS/STEM
+        <strong>DIVERSITY - FUN - EDUCATIONAL - ROBOTICS/STEM</strong>
       </p>
       <p>
         The robotics playground workshops are tailored for STEM education. The workshops are aimed to provide for those who have no robotics or programming experience and just want to give it a go, to those who are wanting to expand their knowledge and learn more while having fun. Catered to both the novice robot builder to the more experienced and those who are completely new and want to find out more.

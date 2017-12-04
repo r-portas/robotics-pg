@@ -4,11 +4,7 @@
 
     <div class="text">
       <p>
-        Robotics playground aims to provide a fun learning environment for students who are interested in robotics and all things STEM.
-      </p>
-
-      <p>
-        We host various educational workshops suitable for all levels of ability.
+        Robotics playground aims to provide a fun learning environment for students who are interested in robotics and all things STEM. Hosting various educational workshops suitable for all levels of ability.
       </p>
 
       <p>
@@ -16,8 +12,12 @@
       </p>
 
       <p>
-        Let us know if you're interested in a workshop and want to find out more.
-        Let us know the age range and availability of the student.
+        If you're unable to attend a workshop or just want to find out more feel free to get in contact (<a href="mailto:roboticspg@gmail.com" target="_top">RoboticsPG@gmail.com</a>)! Or go like us on <a href="https://fb.me/RoboticsPG">Facebook</a>!
+      </p>
+        Let us know the age range, availability and workshop of interest of the student who is unable to attend in order for us to host more of those workshops.
+      </p>
+      <p>
+        For any STEM Educators out there who would like to find out more about what we do or want to partner up we are more than happy to have a chat!
       </p>
     </div>
   </div>
