@@ -72,7 +72,7 @@ export default {
     getEvents () {
       // The organiser id
       const orgId = '15850406575'
-      const url = `${this.apiEndpoint}events/search/?organizer.id=${orgId}&token=${this.accessToken}`
+      const url = `${this.apiEndpoint}events/search/?organizer.id=${orgId}&token=${this.accessToken}&include_all_series_instances=true`
 
       fetch(url).then((res) => {
         return res.json()
