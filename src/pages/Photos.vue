@@ -4,31 +4,31 @@
     <div class="text">
       <div class="row">
         <div class="column">
-          <img src="../assets/DomCamDSC_0602.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DomCamDSC_0602.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
         <div class="column">
-          <img src="../assets/DomCamDSC_0585.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DomCamDSC_0585.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
         <div class="column">
-          <img src="../assets/DomCamDSC_0637.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DomCamDSC_0637.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
         <div class="column">
-          <img src="../assets/firstWorkshopWithTigo_Aditya.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/firstWorkshopWithTigo_Aditya.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
       </div>
       <div class="buffer"></div>
       <div class="row">
         <div class="column">
-          <img src="../assets/DomCamDSC_0627.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DomCamDSC_0627.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
         <div class="column">
-          <img src="../assets/DomCamDSC_0577.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DomCamDSC_0577.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
         <div class="column">
-          <img src="../assets/DSC_0611.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DSC_0611.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
         <div class="column">
-          <img src="../assets/DSC_0640.png" style="width:100%" class="hover-shadow cursor">
+          <img src="../assets/DSC_0640.jpg" style="width:100%" class="hover-shadow cursor">
         </div>
       </div>
     </div>
