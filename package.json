@@ -18,6 +18,7 @@
     "spinkit": "^1.2.5",
     "vue": "^2.5.2",
     "vue-analytics": "^5.6.0",
+    "vue-images": "^1.1.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
