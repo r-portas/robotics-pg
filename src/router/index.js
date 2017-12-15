@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Landing from '@/pages/Landing'
 import About from '@/pages/About'
 import Events from '@/pages/Events'
+import Photos from '@/pages/Photos'
 
 Vue.use(Router)
 
@@ -22,6 +23,11 @@ export default new Router({
       path: '/events',
       name: 'Events',
       component: Events
+    },
+    {
+      path: '/photos',
+      name: 'Photos',
+      component: Photos
     }
   ],
   linkActiveClass: 'is-active'

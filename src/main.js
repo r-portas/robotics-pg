@@ -4,6 +4,7 @@ import Vue from 'vue'
 import VueAnalytics from 'vue-analytics'
 import App from './App'
 import router from './router'
+import vueImages from 'vue-images'
 
 import './main.scss'
 import 'spinkit/css/spinkit.css'
@@ -20,5 +21,10 @@ new Vue({
   el: '#app',
   router,
   template: '<App/>',
-  components: { App }
+  data () {
+    return {
+      images: ['./assets/logo.png']
+    }
+  },
+  components: { App, vueImages: vueImages }
 })
