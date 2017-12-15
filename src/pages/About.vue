@@ -1,9 +1,8 @@
 <template>
   <div class="content">
-    <Hero title="About" img="https://static.pexels.com/photos/159213/hall-congress-architecture-building-159213.jpeg"/>
+    <Hero title="About us" img="https://static.pexels.com/photos/159213/hall-congress-architecture-building-159213.jpeg"/>
 
     <div class="text">
-      <p>The about page</p>
       <p>
         Robotics Playground provides an accessible, inclusive and fun space to learn and explore robotics and all things Science, Technology, Engineering and Maths (STEM). We host workshops led by industry professionals and educators, as well as providing a robotics playground to have fun exploring and playing with robotics.
       </p>
@@ -28,7 +27,9 @@
 
 <style scoped>
 .text {
-  padding: 20px;
+  padding: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
   min-height: 60vh;
 }
 </style>

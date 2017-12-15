@@ -13,7 +13,6 @@
 
       <p>
         If you're unable to attend a workshop or just want to find out more feel free to get in contact (<a href="mailto:roboticspg@gmail.com" target="_top">RoboticsPG@gmail.com</a>)! Or go like us on <a href="https://fb.me/RoboticsPG">Facebook</a>!
-      </p>
         Let us know the age range, availability and workshop of interest of the student who is unable to attend in order for us to host more of those workshops.
       </p>
       <p>
@@ -25,7 +24,9 @@
 
 <style scoped>
 .text {
-  padding: 20px;
+  padding: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
   min-height: 60vh;
 }
 </style>

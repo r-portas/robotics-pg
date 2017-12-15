@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar is-primary">
     <div class="navbar-brand">
-      <router-link to="/" active-class="" class="navbar-item main">Robotics PlayGround</router-link>
+      <router-link to="/" active-class="" class="navbar-item main">Robotics Playground</router-link>
 
       <div class="navbar-burger burger" @click="toggleMenu" :class="{ 'is-active': menuActive }">
         <span></span>
@@ -54,6 +54,10 @@ export default {
         {
           url: '/events',
           title: 'Events'
+        },
+        {
+          url: '/photos',
+          title: 'Photos'
         }
       ],
 
