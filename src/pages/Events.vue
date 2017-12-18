@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <Hero title="Upcoming Events" img="https://static.pexels.com/photos/159213/hall-congress-architecture-building-159213.jpeg"/>
+    <Hero title="Upcoming Events" img="/static/background.jpg"/>
 
     <div class="text">
 
