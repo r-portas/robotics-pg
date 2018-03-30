@@ -22,18 +22,17 @@
 <style scoped>
 .text {
   padding: 3%;
-  padding-left: 15%;
-  padding-right: 15%;
   min-height: 60vh;
 }
 
 .events {
   display: flex;
   flex-wrap: wrap;
+  max-width: 1000px;
 }
 
 .event-item {
-  margin: 2em;
+  margin: 20px;
 }
 </style>
 
