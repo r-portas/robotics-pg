@@ -3,7 +3,9 @@
     <Hero title="Upcoming Events" img="/static/background.jpg"/>
 
     <div class="text">
-
+      <p>
+        Let us know if you would like a particular event to be organised and we will do our best to accommodate it.. Likewise, if you are unable to attend a workshop, get in contact and we will do our best to organise something the same workshop or something similar in the future.Contact us at <a href="mailto:admin@roboticspg.com" target="_top">mailto:admin@roboticspg.com</a> with the approximate ages and ideal time to run the workshop to attract other suitable participants. 
+      </p>
       <Spinner v-if="isLoading" />
 
       <div class="events">
