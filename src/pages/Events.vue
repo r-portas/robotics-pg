@@ -24,6 +24,8 @@
 <style scoped>
 .text {
   padding: 3%;
+  padding-left: 15%;
+  padding-right: 15%;
   min-height: 60vh;
 }
 
