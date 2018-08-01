@@ -33,7 +33,7 @@
 </style>
 
 <script>
-import moment from 'moment'
+import * as moment from 'moment'
 
 export default {
   name: 'Event',
